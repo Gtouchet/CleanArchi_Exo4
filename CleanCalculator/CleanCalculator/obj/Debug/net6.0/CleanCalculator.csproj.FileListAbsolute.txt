@@ -1,0 +1,16 @@
+E:\RepoGit\CleanArchi_Exo4\CleanCalculator\CleanCalculator\bin\Debug\net6.0\CleanCalculator.exe
+E:\RepoGit\CleanArchi_Exo4\CleanCalculator\CleanCalculator\bin\Debug\net6.0\CleanCalculator.deps.json
+E:\RepoGit\CleanArchi_Exo4\CleanCalculator\CleanCalculator\bin\Debug\net6.0\CleanCalculator.runtimeconfig.json
+E:\RepoGit\CleanArchi_Exo4\CleanCalculator\CleanCalculator\bin\Debug\net6.0\CleanCalculator.dll
+E:\RepoGit\CleanArchi_Exo4\CleanCalculator\CleanCalculator\bin\Debug\net6.0\CleanCalculator.pdb
+E:\RepoGit\CleanArchi_Exo4\CleanCalculator\CleanCalculator\obj\Debug\net6.0\CleanCalculator.csproj.AssemblyReference.cache
+E:\RepoGit\CleanArchi_Exo4\CleanCalculator\CleanCalculator\obj\Debug\net6.0\CleanCalculator.GeneratedMSBuildEditorConfig.editorconfig
+E:\RepoGit\CleanArchi_Exo4\CleanCalculator\CleanCalculator\obj\Debug\net6.0\CleanCalculator.AssemblyInfoInputs.cache
+E:\RepoGit\CleanArchi_Exo4\CleanCalculator\CleanCalculator\obj\Debug\net6.0\CleanCalculator.AssemblyInfo.cs
+E:\RepoGit\CleanArchi_Exo4\CleanCalculator\CleanCalculator\obj\Debug\net6.0\CleanCalculator.csproj.CoreCompileInputs.cache
+E:\RepoGit\CleanArchi_Exo4\CleanCalculator\CleanCalculator\obj\Debug\net6.0\CleanCalculator.dll
+E:\RepoGit\CleanArchi_Exo4\CleanCalculator\CleanCalculator\obj\Debug\net6.0\refint\CleanCalculator.dll
+E:\RepoGit\CleanArchi_Exo4\CleanCalculator\CleanCalculator\obj\Debug\net6.0\CleanCalculator.pdb
+E:\RepoGit\CleanArchi_Exo4\CleanCalculator\CleanCalculator\obj\Debug\net6.0\CleanCalculator.genruntimeconfig.cache
+E:\RepoGit\CleanArchi_Exo4\CleanCalculator\CleanCalculator\obj\Debug\net6.0\ref\CleanCalculator.dll
+E:\RepoGit\CleanArchi_Exo4\CleanCalculator\CleanCalculator\bin\Debug\net6.0\numbers.txt
