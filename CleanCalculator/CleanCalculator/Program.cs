@@ -14,11 +14,11 @@ Command command = userInput.Command switch
     _ => throw new NotSupportedException("Cette command n'est pas supportée"),
 };
 
-Logger logger = new Logger();
+bool log = true; // TODO avec args[3]
 switch (command)
 {
     case CalculatorCommand calculatorCommand:
-        CalculatorHandler calculator = new CalculatorHandler(logger);
+        CalculatorHandler calculator = new CalculatorHandler(log ? Logger.GetInstance() : null);
         calculator.Handle(calculatorCommand);
         break;
     // any other command
